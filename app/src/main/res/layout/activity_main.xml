@@ -20,7 +20,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="1dp"
             android:padding="5dp"
-            android:text="Data Pemain Real Madrid"
+            android:text="Data Pemain Arsenal"
             android:textAlignment="center"
             android:textSize="19sp"
             android:textColor="#0C0C0C"
